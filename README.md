@@ -1,6 +1,6 @@
-Bienvenido
+#Bienvenido
 
-Perfil en desarrollo / no finalizado aun
+##Perfil en desarrollo / no finalizado aun
 
 <!--
 **Matthew1518/Matthew1518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,8 @@ Perfil en desarrollo / no finalizado aun
 - 📫 How to reach me:: --
 - 😄 Pronouns: Matt
 - ⚡ Fun fact: jaja
+
+#Developer Junnior
+
+ •*Languaje:*
+  •C++
