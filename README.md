@@ -26,7 +26,7 @@
 ### ⚡ Fun fact:
 - hyperactive, sociable, work in groups, encouraging
 
-### Developer Junior
+## Developer Junior
 
 ### Language:
 - C++
