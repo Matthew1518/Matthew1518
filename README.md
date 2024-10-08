@@ -19,6 +19,7 @@
 
 ### 📫 How to reach me:
 - matiasromero988@gmail.com
+- www.linkedin.com/in/matias-r-ovelar-378980331
 
 ### 😄 Pronouns:
 - he/his
