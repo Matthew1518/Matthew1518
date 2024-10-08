@@ -31,4 +31,4 @@
 
 ### Language:
 - C++
-- Python
+- Python (Basic)
