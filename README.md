@@ -8,7 +8,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-#  - 🔭 I’m currently working on: C++ (for now)
+#  - 🔭 I’m currently working on:
+   - C++ (for now)
 # - 🌱  I’m currently learning: C++ (for now)
 # - 👯  I’m looking to collaborate on: I am not decided yet.
 # - 🤔  I’m looking for help with: Programming Technician.
