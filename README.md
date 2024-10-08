@@ -1,36 +1,73 @@
-# WELCOME
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1, h2 {
+            border: none; /* Elimina las líneas debajo de los títulos */
+        }
+        ul {
+            list-style-type: none; /* Quita las viñetas de la lista */
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
 
-## Profile in development, not yet completed.
+    <h1>WELCOME</h1>
+    <h2>Profile in development, not yet completed.</h2>
 
-<!--
-**Matthew1518/Matthew1518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+    <h2>🔭 I’m currently working on:</h2>
+    <ul>
+        <li>C++ (for now)</li>
+    </ul>
 
-## 🔭 I’m currently working on:
-- C++ (for now)
+    <h2>🌱 I’m currently learning:</h2>
+    <ul>
+        <li>C++ (for now)</li>
+    </ul>
 
-## 🌱 I’m currently learning:
-- C++ (for now)
+    <h2>👯 I’m looking to collaborate on:</h2>
+    <ul>
+        <li>I am not decided yet</li>
+    </ul>
 
-## 👯 I’m looking to collaborate on:
-- I am not decided yet
+    <h2>🤔 I’m looking for help with:</h2>
+    <ul>
+        <li>Programming Technician.</li>
+    </ul>
 
-## 🤔 I’m looking for help with:
-- Programming Technician.
+    <h2>💬 Ask me about:</h2>
+    <ul>
+        <li>C++ (Basic)</li>
+    </ul>
 
-## 💬 Ask me about:
-- C++ (Basic)
+    <h2>📫 How to reach me:</h2>
+    <ul>
+        <li>matiasromero988@gmail.com</li>
+    </ul>
 
-## 📫 How to reach me:
-- matiasromero988@gmail.com
+    <h2>😄 Pronouns:</h2>
+    <ul>
+        <li>he/his</li>
+    </ul>
 
-## 😄 Pronouns:
-- he/his
+    <h2>⚡ Fun fact:</h2>
+    <ul>
+        <li>hyperactive, sociable, work in groups, encouraging</li>
+    </ul>
 
-## ⚡ Fun fact:
-- hyperactive, sociable, work in groups, encouraging
+    <h2>Developer Junior</h2>
 
-## Developer Junior
+    <h2>Language:</h2>
+    <ul>
+        <li>C++</li>
+    </ul>
 
-## Language:
-- C++
+</body>
+</html>
