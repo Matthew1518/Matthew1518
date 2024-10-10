@@ -3,10 +3,10 @@
 ## Profile in development, not yet completed.
 
 ### 🔭 I’m currently working on:
-- C++ (for now)
+- C++ and Python (for now)
 
 ### 🌱 I’m currently learning:
-- C++ (for now)
+- C++ and Python (for now)
 
 ### 👯 I’m looking to collaborate on:
 - I am not decided yet
@@ -27,7 +27,7 @@
 ### ⚡ Fun fact:
 - hyperactive, sociable, work in groups, encouraging
 
-## Developer Junior
+## Developer Junior / full stack developer
 
 ### Language:
 - C++
