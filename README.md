@@ -27,7 +27,7 @@
 ### ⚡ Fun fact:
 - hyperactive, sociable, work in groups, encouraging
 
-## Developer Junior / full stack developer
+## Developer Trainee / full stack developer
 
 ### Language:
 - C++
