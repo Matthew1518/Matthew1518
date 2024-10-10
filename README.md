@@ -32,3 +32,6 @@
 ### Language:
 - C++
 - Python (Basic)
+
+ABOUT ME
+I am currently seeking my first job as a programmer and/or full stack developer. I am eager to learn and grow both personally and professionally. I wish to apply my knowledge of C++ in a collaborative environment and am committed to contributing to innovative projects. I aim to improve my technical skills and adapt to the needs of the team.
